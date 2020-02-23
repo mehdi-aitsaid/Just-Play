@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Just Play</string>
+    <string name="placeholder_player_1">Enter Name of Player 1</string>
+    <string name="placeholder_player_2">Enter Name of Player 2</string>
+    <string name="start_game">Start Game</string>
+    <string name="total_score">Total Score:</string>
+    <string name="player_1">Player Name</string>
+    <string name="score">Score:</string>
+    <string name="button">Button</string>
+    <string name="just_play">JUST PLAY</string>
+    <string name="winner_msg">The Winner is: </string>
+    <string name="continue_msg">Do you want to continue?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="wait_p1">Wait for player 1</string>
+    <string name="wait_p2">Wait for player 2</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Play</string>
+    <string name="button">Bouton</string>
+    <string name="just_play">SIMPLEMENT JOUER</string>
+    <string name="placeholder_player_1">Entrez le nom du joueur 1</string>
+    <string name="placeholder_player_2">Entrez le nom du joueur 2</string>
+    <string name="player_1">Nom de joueur</string>
+    <string name="score">Note</string>
+    <string name="start_game">Démarrer le jeu</string>
+    <string name="total_score">Note total:</string>
+    <string name="winner_msg">Le gagnant est:</string>
+    <string name="continue_msg">Voulez-vous continuer?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="wait_p1">Attendez le joueur 1</string>
+    <string name="wait_p2">Attendez le joueur 2</string>
+</resources>
